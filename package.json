@@ -1,0 +1,10 @@
+{
+  "name": "silhouette-flooding-challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Lucas Alves <lucas.alves@afferolab.com.br>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node src/index.js"
+  }
+}
