@@ -1,3 +1,17 @@
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/lcoalves/silhouette-flooding-challenge?color=%2304D361">
+
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
+
+  <a href="https://github.com/lcoalves">
+    <img alt="Made by Lucas Alves" src="https://img.shields.io/badge/made%20by-Lucas%20Alves-%2304D361">
+  </a>
+
+  <a href="https://github.com/lcoalves/silhouette-flooding-challenge/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/lcoalves/silhouette-flooding-challenge?style=social">
+  </a>
+</p>
+
 ### Desafio
 Imagine um array de inteiros onde cada posição contém a altura de uma silhueta:
 
@@ -20,20 +34,6 @@ O resultado deve conter o acúmulo de água em cada caso do arquivo.
 Exemplo:
 
 ![image](https://github.com/lcoalves/silhouette-flooding-challenge/blob/main/.github/example.png)
-
-<p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/lcoalves/silhouette-flooding-challenge?color=%2304D361">
-
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
-
-  <a href="https://github.com/lcoalves">
-    <img alt="Made by Lucas Alves" src="https://img.shields.io/badge/made%20by-Lucas%20Alves-%2304D361">
-  </a>
-
-  <a href="https://github.com/lcoalves/silhouette-flooding-challenge/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/lcoalves/silhouette-flooding-challenge?style=social">
-  </a>
-</p>
 
 ## Getting Started
 
